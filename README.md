@@ -1,2 +1,3 @@
 # Analog-Clock
-This is a simple Analog clock project with ticking sound.
+This is a simple Analog Clock project with tick sound.
+
